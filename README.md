@@ -1,2 +1,2 @@
 # UltiCraft-SourceCode
-UltiCraft plugin source code.
+UltiCraft plugins source code.
