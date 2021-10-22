@@ -1,0 +1,21 @@
+name: hubplugin
+version: 1.0
+author: ulticraft
+main: net.hubplugin.hub.Main
+commands:
+  hub:
+    description: retournez au hub
+    aliases: lobby
+  ac:
+    permission: moderateur.ac
+    aliases: anticheat
+  mobspawn:
+    permission: admin.ac
+  nick:
+    aliases: nickname
+  manage:
+    description: Commande manage
+  fly:
+    description: flying mode
+  coins:
+    description: edit player coins
